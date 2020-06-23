@@ -1,0 +1,11 @@
+﻿  app_window.cpp
+c:\users\kari\desktop\storage\#school\junior year\2nd sem 2017-2018\cse 170\support code\cse170-pa1\app_window.cpp(17): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kari\desktop\storage\#school\junior year\2nd sem 2017-2018\cse 170\support code\cse170-pa1\app_window.cpp(21): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kari\desktop\storage\#school\junior year\2nd sem 2017-2018\cse 170\support code\cse170-pa1\app_window.cpp(27): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kari\desktop\storage\#school\junior year\2nd sem 2017-2018\cse 170\support code\cse170-pa1\app_window.cpp(31): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kari\desktop\storage\#school\junior year\2nd sem 2017-2018\cse 170\support code\cse170-pa1\app_window.cpp(158): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\kari\desktop\storage\#school\junior year\2nd sem 2017-2018\cse 170\support code\cse170-pa1\app_window.cpp(159): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\kari\desktop\storage\#school\junior year\2nd sem 2017-2018\cse 170\support code\cse170-pa1\app_window.cpp(164): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\kari\desktop\storage\#school\junior year\2nd sem 2017-2018\cse 170\support code\cse170-pa1\app_window.cpp(165): warning C4305: '-=': truncation from 'double' to 'float'
+  glutapp2d.vcxproj -> C:\Users\Kari\Desktop\Storage\#School\Junior Year\2nd sem 2017-2018\CSE 170\Support Code\cse170-pa1\visualc14\obj\glutapp2d_Debug\glutapp2d.exe
+          1 file(s) copied.

@@ -1,0 +1,9 @@
+﻿  app_main.cpp
+  app_window.cpp
+c:\users\kari\desktop\storage\#school\junior year\2nd sem 2017-2018\cse 170 grpahics\support code\cse170-pa6\app_window.cpp(78): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\kari\desktop\storage\#school\junior year\2nd sem 2017-2018\cse 170 grpahics\support code\cse170-pa6\app_window.cpp(79): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  so_texturedtube.cpp
+  Generating Code...
+  glutapp3d.vcxproj -> C:\Users\Kari\Desktop\Storage\#School\Junior Year\2nd sem 2017-2018\CSE 170 GRPAHICS\Support Code\cse170-pa6\visualc14\obj\glutapp3d_Debug\glutapp3d.exe
+  glutapp3d.vcxproj -> obj\glutapp3d_Debug\glutapp3d.pdb (Full PDB)
+          1 file(s) copied.
