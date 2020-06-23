@@ -3,6 +3,9 @@ All projects utilized the OpenGL and Glut libraries.
 
 Table of contents:
 
+PA Project:
+Loaded a 3D model and implemented movement of the model to simulate motion within a 3D space. User input would move the model along the X/Y plane.
+
 PA1 - Basic 2D Drawing: 
 Created a 2D image of my name with flashing animations.
 
