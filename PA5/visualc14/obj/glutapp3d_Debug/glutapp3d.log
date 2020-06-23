@@ -1,0 +1,14 @@
+﻿  normals_model.cpp
+c:\users\kari\desktop\storage\#school\junior year\2nd sem 2017-2018\cse 170 grpahics\support code\cse170-pa5\normals_model.cpp(29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\kari\desktop\storage\#school\junior year\2nd sem 2017-2018\cse 170 grpahics\support code\cse170-pa5\normals_model.cpp(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\kari\desktop\storage\#school\junior year\2nd sem 2017-2018\cse 170 grpahics\support code\cse170-pa5\normals_model.cpp(31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\kari\desktop\storage\#school\junior year\2nd sem 2017-2018\cse 170 grpahics\support code\cse170-pa5\normals_model.cpp(37): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\kari\desktop\storage\#school\junior year\2nd sem 2017-2018\cse 170 grpahics\support code\cse170-pa5\normals_model.cpp(38): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\kari\desktop\storage\#school\junior year\2nd sem 2017-2018\cse 170 grpahics\support code\cse170-pa5\normals_model.cpp(39): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\kari\desktop\storage\#school\junior year\2nd sem 2017-2018\cse 170 grpahics\support code\cse170-pa5\normals_model.cpp(47): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\kari\desktop\storage\#school\junior year\2nd sem 2017-2018\cse 170 grpahics\support code\cse170-pa5\normals_model.cpp(50): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\kari\desktop\storage\#school\junior year\2nd sem 2017-2018\cse 170 grpahics\support code\cse170-pa5\normals_model.cpp(53): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\kari\desktop\storage\#school\junior year\2nd sem 2017-2018\cse 170 grpahics\support code\cse170-pa5\normals_model.cpp(58): warning C4018: '<': signed/unsigned mismatch
+  glutapp3d.vcxproj -> C:\Users\Kari\Desktop\Storage\#School\Junior Year\2nd sem 2017-2018\CSE 170 GRPAHICS\Support Code\cse170-pa5\visualc14\obj\glutapp3d_Debug\glutapp3d.exe
+  glutapp3d.vcxproj -> obj\glutapp3d_Debug\glutapp3d.pdb (Full PDB)
+          1 file(s) copied.
