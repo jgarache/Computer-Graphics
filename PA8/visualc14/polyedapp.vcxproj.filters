@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\gsim\gs.cpp">
+      <Filter>graphsim tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gsim\gs_array.cpp">
+      <Filter>graphsim tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gsim\gs_color.cpp">
+      <Filter>graphsim tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gsim\gs_mat.cpp">
+      <Filter>graphsim tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gsim\gs_quat.cpp">
+      <Filter>graphsim tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gsim\gs_vec.cpp">
+      <Filter>graphsim tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gsim\gs_vec2.cpp">
+      <Filter>graphsim tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\glut_window.cpp">
+      <Filter>ogl tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ogl_tools.cpp">
+      <Filter>ogl tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\app_main.cpp">
+      <Filter>myapp\app</Filter>
+    </ClCompile>
+    <ClCompile Include="..\app_window.cpp">
+      <Filter>myapp\app</Filter>
+    </ClCompile>
+    <ClCompile Include="..\so_axis.cpp">
+      <Filter>myapp\axis</Filter>
+    </ClCompile>
+    <ClCompile Include="..\so_poly.cpp">
+      <Filter>myapp\so</Filter>
+    </ClCompile>
+    <ClCompile Include="..\curve_eval.cpp">
+      <Filter>myapp\curve</Filter>
+    </ClCompile>
+    <ClCompile Include="..\so_curve.cpp">
+      <Filter>myapp\so</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\gsim\gs.h">
+      <Filter>graphsim tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gsim\gs_array.h">
+      <Filter>graphsim tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gsim\gs_color.h">
+      <Filter>graphsim tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gsim\gs_mat.h">
+      <Filter>graphsim tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gsim\gs_quat.h">
+      <Filter>graphsim tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gsim\gs_vec.h">
+      <Filter>graphsim tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gsim\gs_vec2.h">
+      <Filter>graphsim tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\glut_window.h">
+      <Filter>ogl tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ogl_tools.h">
+      <Filter>ogl tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\app_window.h">
+      <Filter>myapp\app</Filter>
+    </ClInclude>
+    <ClInclude Include="..\so_axis.h">
+      <Filter>myapp\axis</Filter>
+    </ClInclude>
+    <ClInclude Include="..\so_poly.h">
+      <Filter>myapp\so</Filter>
+    </ClInclude>
+    <ClInclude Include="..\curve_eval.h">
+      <Filter>myapp\curve</Filter>
+    </ClInclude>
+    <ClInclude Include="..\so_curve.h">
+      <Filter>myapp\so</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="myapp">
+      <UniqueIdentifier>{d0b6dda1-cc69-488c-a43c-dad126663f16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ogl tools">
+      <UniqueIdentifier>{488b5122-f392-4ddb-b5df-d7fa4cfe48d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{e12aa8fc-30b9-4310-bbed-2b3e9409d0c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="graphsim tools">
+      <UniqueIdentifier>{c9628ba3-d800-4870-ba96-41f6812019fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="myapp\app">
+      <UniqueIdentifier>{986314bd-ed51-4af2-8abf-94e66bd7167f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="myapp\axis">
+      <UniqueIdentifier>{f0179244-6fa2-4674-8159-ec750818f2bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="myapp\curve">
+      <UniqueIdentifier>{69c4dd95-3549-41ed-8d75-6cc749fd0dd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="myapp\so">
+      <UniqueIdentifier>{6ed11002-8ae0-4802-9ac8-1d487a1a8855}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\fsh_flat.glsl">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\vsh_mcol_flat.glsl">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\gouraud.frag">
+      <Filter>myapp</Filter>
+    </None>
+    <None Include="..\smtlgouraud.vert">
+      <Filter>myapp</Filter>
+    </None>
+  </ItemGroup>
+</Project>
